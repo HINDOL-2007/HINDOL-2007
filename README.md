@@ -28,7 +28,7 @@
 | Project | What it shows | Language |
 |---|---|---|
 | [Cpp-RPG-Battle-Simulator](https://github.com/HINDOL-2007/Cpp-RPG-Battle-Simulator) | Text RPG with heroes, difficulty modes, friend functions, static members | C++ |
-| <!-- replace with the full repo name --> [Cpp-ZFighter-OOP](https://github.com/HINDOL-2007) | Z-Fighter simulator: multiple and virtual inheritance, pure virtual functions, virtual destructors | C++ |
+| <!-- replace with the full repo name --> [Cpp-ZFighter-OOP-Capstone](https://github.com/HINDOL-2007/ZFighter-OOP-Capstone) | Z-Fighter simulator: multiple and virtual inheritance, pure virtual functions, virtual destructors | C++ |
 | [Console-Bank-System](https://github.com/HINDOL-2007/Console-Bank-System) | Encapsulation, state management, PIN validation | C++ |
 | [Console-Store-System](https://github.com/HINDOL-2007/Console-Store-System) | Inventory manager with running total and state tracking | C++ |
 | [Cpp-File-IO-Basics](https://github.com/HINDOL-2007/Cpp-File-IO-Basics) | Reading and writing files in C++ | C++ |
